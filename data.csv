@@ -1,0 +1,772 @@
+id,itemName,subCategory,category,purchaseDate,dayOfWeek,productQuantity
+1,Hot chocolate,Coffee,Beverages,3/1/2023,Wednesday,5
+2,Chicken shawarma,Snacks,Menu,3/1/2023,Wednesday,21
+3,Egg sandwich,Snacks,Menu,3/1/2023,Wednesday,11
+4,Onion pakora,Snacks,Menu,3/1/2023,Wednesday,21
+5,Tuna sandwich,Snacks,Menu,3/1/2023,Wednesday,18
+6,Mirissa bistro,Salads,Menu,3/1/2023,Wednesday,13
+7,Chicken & vegetable broth,Soup,Menu,3/1/2023,Wednesday,1
+8,Seafood tom yum,Soup,Menu,3/1/2023,Wednesday,12
+9,Mushroom,Soup,Menu,3/1/2023,Wednesday,19
+10,Crispy prawns,Grilled Seafood,Menu,3/1/2023,Wednesday,13
+11,Grilled calamari,Grilled Seafood,Menu,3/1/2023,Wednesday,21
+12,Grilled prawns,Grilled Seafood,Menu,3/1/2023,Wednesday,11
+13,Seafood platter,Grilled Seafood,Menu,3/1/2023,Wednesday,13
+14,Marinara,Pasta & Burgers,Menu,3/1/2023,Wednesday,13
+15,Pork rice & curry,Traditional Sri Lankan,Menu,3/1/2023,Wednesday,25
+16,Prawn rice & curry,Traditional Sri Lankan,Menu,3/1/2023,Wednesday,19
+17,Chicken curry & plain rice,Traditional Sri Lankan,Menu,3/1/2023,Wednesday,18
+18,Calamari,Devilled,Menu,3/1/2023,Wednesday,21
+19,Prawns,Devilled,Menu,3/1/2023,Wednesday,11
+20,Mix,Devilled,Menu,3/1/2023,Wednesday,11
+21,Vegetable spring rolls,Snacks,Menu,3/2/2023,Thursday,11
+22,Cream of tomato,Soup,Menu,3/2/2023,Thursday,22
+23,Seafood tom yum,Soup,Menu,3/2/2023,Thursday,2
+24,Mushroom,Soup,Menu,3/2/2023,Thursday,3
+25,Crispy chicken,Grilled Meats,Menu,3/2/2023,Thursday,21
+26,Grilled chicken,Grilled Meats,Menu,3/2/2023,Thursday,25
+27,Mixed platter,Grilled Meats,Menu,3/2/2023,Thursday,23
+28,Mixed,Fried Rice,Menu,3/2/2023,Thursday,11
+29,Vegetables,Fried Rice,Menu,3/2/2023,Thursday,13
+30,Fish curry & plain rice,Traditional Sri Lankan,Menu,3/2/2023,Thursday,18
+31,Banana Fritters,Dessert Items,Dessert,3/2/2023,Thursday,13
+32,Vanilla ice cream,Dessert Items,Dessert,3/2/2023,Thursday,18
+33,Cappuccino,Coffee,Beverages,3/3/2023,Friday,4
+34,Double espresso,Coffee,Beverages,3/3/2023,Friday,8
+35,Long espresso,Coffee,Beverages,3/3/2023,Friday,4
+36,Latte macchiato,Coffee,Beverages,3/3/2023,Friday,2
+37,Cheese omelet,Snacks,Menu,3/3/2023,Friday,13
+38,Chicken shawarma,Snacks,Menu,3/3/2023,Friday,21
+39,Ham omelet,Snacks,Menu,3/3/2023,Friday,21
+40,Sri Lankan omelet,Snacks,Menu,3/3/2023,Friday,18
+41,Vegetable sandwich,Snacks,Menu,3/3/2023,Friday,11
+42,Chicken & vegetable broth,Soup,Menu,3/3/2023,Friday,23
+43,Cream of tomato,Soup,Menu,3/3/2023,Friday,6
+44,Seafood tom yum,Soup,Menu,3/3/2023,Friday,2
+45,Seafood platter,Grilled Seafood,Menu,3/3/2023,Friday,18
+46,Crispy chicken,Grilled Meats,Menu,3/3/2023,Friday,11
+47,Honey mustard grilled pork,Grilled Meats,Menu,3/3/2023,Friday,11
+48,Mixed platter,Grilled Meats,Menu,3/3/2023,Friday,23
+49,Napolitan,Pasta & Burgers,Menu,3/3/2023,Friday,23
+50,Veggie burger,Pasta & Burgers,Menu,3/3/2023,Friday,18
+51,Vegetables,Fried Rice,Menu,3/3/2023,Friday,23
+52,Prawn rice & curry,Traditional Sri Lankan,Menu,3/3/2023,Friday,21
+53,Chicken,Devilled,Menu,3/3/2023,Friday,23
+54,Prawns,Devilled,Menu,3/3/2023,Friday,13
+55,Mix,Devilled,Menu,3/3/2023,Friday,21
+56,Banana Fritters,Dessert Items,Dessert,3/3/2023,Friday,7
+57,Caramel pudding,Dessert Items,Dessert,3/3/2023,Friday,13
+58,Curd & kithul Treacle,Dessert Items,Dessert,3/3/2023,Friday,18
+59,Chocolate crepe,Dessert Items,Dessert,3/3/2023,Friday,7
+60,Double espresso,Coffee,Beverages,3/4/2023,Saturday,4
+61,Long espresso,Coffee,Beverages,3/4/2023,Saturday,1
+62,Latte,Coffee,Beverages,3/4/2023,Saturday,5
+63,Sri Lankan omelet,Snacks,Menu,3/4/2023,Saturday,18
+64,Tuna sandwich,Snacks,Menu,3/4/2023,Saturday,16
+65,Grilled prawns,Grilled Seafood,Menu,3/4/2023,Saturday,13
+66,Mixed platter,Grilled Meats,Menu,3/4/2023,Saturday,16
+67,Napolitan,Pasta & Burgers,Menu,3/4/2023,Saturday,16
+68,Pesto,Pasta & Burgers,Menu,3/4/2023,Saturday,25
+69,Vegetables,Fried Rice,Menu,3/4/2023,Saturday,11
+70,Chicken,Devilled,Menu,3/4/2023,Saturday,21
+71,Mix,Devilled,Menu,3/4/2023,Saturday,18
+72,Curd & kithul Treacle,Dessert Items,Dessert,3/4/2023,Saturday,10
+73,Fruit Salad,Dessert Items,Dessert,3/4/2023,Saturday,5
+74,Chocolate crepe,Dessert Items,Dessert,3/4/2023,Saturday,10
+75,Americano,Coffee,Beverages,3/5/2023,Sunday,8
+76,Latte,Coffee,Beverages,3/5/2023,Sunday,7
+77,Macchiato,Coffee,Beverages,3/5/2023,Sunday,6
+78,Sri Lankan coffee,Coffee,Beverages,3/5/2023,Sunday,2
+79,Iced coffee,Coffee,Beverages,3/5/2023,Sunday,8
+80,Croque monsieur,Snacks,Menu,3/5/2023,Sunday,16
+81,Egg sandwich,Snacks,Menu,3/5/2023,Sunday,11
+82,French fries,Snacks,Menu,3/5/2023,Sunday,19
+83,Onion rings,Snacks,Menu,3/5/2023,Sunday,21
+84,Sri Lankan omelet,Snacks,Menu,3/5/2023,Sunday,23
+85,Tuna sandwich,Snacks,Menu,3/5/2023,Sunday,13
+86,Chicken & vegetable broth,Soup,Menu,3/5/2023,Sunday,8
+87,Creamy pumpkin,Soup,Menu,3/5/2023,Sunday,7
+88,Cream of tomato,Soup,Menu,3/5/2023,Sunday,23
+89,Seafood tom yum,Soup,Menu,3/5/2023,Sunday,25
+90,Mushroom,Soup,Menu,3/5/2023,Sunday,18
+91,Mushroom & basil,Pasta & Burgers,Menu,3/5/2023,Sunday,25
+92,Veggie burger,Pasta & Burgers,Menu,3/5/2023,Sunday,21
+93,Seafood,Fried Rice,Menu,3/5/2023,Sunday,19
+94,Chicken rice & curry,Traditional Sri Lankan,Menu,3/5/2023,Sunday,23
+95,Pork rice & curry,Traditional Sri Lankan,Menu,3/5/2023,Sunday,13
+96,Prawn rice & curry,Traditional Sri Lankan,Menu,3/5/2023,Sunday,13
+97,Pork curry & plain rice,Traditional Sri Lankan,Menu,3/5/2023,Sunday,13
+98,Prawn curry & plain rice,Traditional Sri Lankan,Menu,3/5/2023,Sunday,18
+99,3 scoop ice cream,Dessert Items,Dessert,3/5/2023,Sunday,20
+100,Double espresso,Coffee,Beverages,3/6/2023,Monday,5
+101,Cheese omelet,Snacks,Menu,3/6/2023,Monday,25
+102,Chicken panini,Snacks,Menu,3/6/2023,Monday,23
+103,Egg sandwich,Snacks,Menu,3/6/2023,Monday,13
+104,Onion rings,Snacks,Menu,3/6/2023,Monday,21
+105,Vegetable spring rolls,Snacks,Menu,3/6/2023,Monday,25
+106,Vegetable sandwich,Snacks,Menu,3/6/2023,Monday,18
+107,Calamari,Salads,Menu,3/6/2023,Monday,25
+108,Prawns,Salads,Menu,3/6/2023,Monday,25
+109,Chickpea,Salads,Menu,3/6/2023,Monday,13
+110,Niçoise,Salads,Menu,3/6/2023,Monday,19
+111,Chicken & vegetable broth,Soup,Menu,3/6/2023,Monday,1
+112,Creamy pumpkin,Soup,Menu,3/6/2023,Monday,11
+113,Cream of tomato,Soup,Menu,3/6/2023,Monday,23
+114,Seafood tom yum,Soup,Menu,3/6/2023,Monday,18
+115,Mushroom,Soup,Menu,3/6/2023,Monday,4
+116,Honey mustard grilled pork,Grilled Meats,Menu,3/6/2023,Monday,23
+117,Mushroom & basil,Pasta & Burgers,Menu,3/6/2023,Monday,18
+118,Chicken,Fried Rice,Menu,3/6/2023,Monday,23
+119,Mixed,Fried Rice,Menu,3/6/2023,Monday,2
+120,Seafood,Fried Rice,Menu,3/6/2023,Monday,16
+121,Chicken rice & curry,Traditional Sri Lankan,Menu,3/6/2023,Monday,8
+122,Fish rice & curry,Traditional Sri Lankan,Menu,3/6/2023,Monday,3
+123,Dhal curry & plain rice,Traditional Sri Lankan,Menu,3/6/2023,Monday,23
+124,Prawns,Devilled,Menu,3/6/2023,Monday,23
+125,Mix,Devilled,Menu,3/6/2023,Monday,25
+126,Banana Fritters,Dessert Items,Dessert,3/6/2023,Monday,18
+127,Chocolate mousse,Dessert Items,Dessert,3/6/2023,Monday,29
+128,Fruit & nut ice cream,Dessert Items,Dessert,3/6/2023,Monday,5
+129,Cappuccino,Coffee,Beverages,3/7/2023,Tuesday,6
+130,Double espresso,Coffee,Beverages,3/7/2023,Tuesday,5
+131,Hot chocolate,Coffee,Beverages,3/7/2023,Tuesday,3
+132,Avocado,Fresh Juices,Beverages,3/7/2023,Tuesday,1
+133,Banana,Fresh Juices,Beverages,3/7/2023,Tuesday,1
+134,Mixed,Fresh Juices,Beverages,3/7/2023,Tuesday,22
+135,Papaya,Fresh Juices,Beverages,3/7/2023,Tuesday,25
+136,Banana,Milk Shake,Beverages,3/7/2023,Tuesday,8
+137,Mango,Milk Shake,Beverages,3/7/2023,Tuesday,17
+138,Pineapple,Milk Shake,Beverages,3/7/2023,Tuesday,1
+139,Vanilla,Milk Shake,Beverages,3/7/2023,Tuesday,8
+140,Pineapple,Lassi,Beverages,3/7/2023,Tuesday,17
+141,Cheese omelet,Snacks,Menu,3/7/2023,Tuesday,2
+142,Chicken panini,Snacks,Menu,3/7/2023,Tuesday,8
+143,Chicken shawarma,Snacks,Menu,3/7/2023,Tuesday,13
+144,Croque monsieur,Snacks,Menu,3/7/2023,Tuesday,15
+145,Egg sandwich,Snacks,Menu,3/7/2023,Tuesday,8
+146,French fries,Snacks,Menu,3/7/2023,Tuesday,26
+147,Ham omelet,Snacks,Menu,3/7/2023,Tuesday,10
+148,Onion rings,Snacks,Menu,3/7/2023,Tuesday,14
+149,Onion pakora,Snacks,Menu,3/7/2023,Tuesday,12
+150,Sri Lankan omelet,Snacks,Menu,3/7/2023,Tuesday,1
+151,Tuna sandwich,Snacks,Menu,3/7/2023,Tuesday,7
+152,Vegetable spring rolls,Snacks,Menu,3/7/2023,Tuesday,12
+153,Vegetable sandwich,Snacks,Menu,3/7/2023,Tuesday,11
+154,Veggie panini,Snacks,Menu,3/7/2023,Tuesday,15
+155,Calamari,Salads,Menu,3/7/2023,Tuesday,8
+156,Chicken & pineapple,Salads,Menu,3/7/2023,Tuesday,9
+157,Mirissa bistro,Salads,Menu,3/7/2023,Tuesday,7
+158,Vegetables,Salads,Menu,3/7/2023,Tuesday,25
+159,Chickpea,Salads,Menu,3/7/2023,Tuesday,12
+160,Chicken & vegetable broth,Soup,Menu,3/7/2023,Tuesday,12
+161,Cream of tomato,Soup,Menu,3/7/2023,Tuesday,8
+162,Seafood tom yum,Soup,Menu,3/7/2023,Tuesday,16
+163,Mushroom,Soup,Menu,3/7/2023,Tuesday,4
+164,Crispy prawns,Grilled Seafood,Menu,3/7/2023,Tuesday,4
+165,Grilled tuna,Grilled Seafood,Menu,3/7/2023,Tuesday,7
+166,Seafood platter,Grilled Seafood,Menu,3/7/2023,Tuesday,8
+167,Crispy chicken,Grilled Meats,Menu,3/7/2023,Tuesday,18
+168,Grilled chicken,Grilled Meats,Menu,3/7/2023,Tuesday,25
+169,Honey mustard grilled pork,Grilled Meats,Menu,3/7/2023,Tuesday,20
+170,Mixed platter,Grilled Meats,Menu,3/7/2023,Tuesday,21
+171,Carbonara,Pasta & Burgers,Menu,3/7/2023,Tuesday,2
+172,Marinara,Pasta & Burgers,Menu,3/7/2023,Tuesday,17
+173,Mushroom & basil,Pasta & Burgers,Menu,3/7/2023,Tuesday,5
+174,Napolitan,Pasta & Burgers,Menu,3/7/2023,Tuesday,22
+175,Pesto,Pasta & Burgers,Menu,3/7/2023,Tuesday,1
+176,Chicken burger,Pasta & Burgers,Menu,3/7/2023,Tuesday,20
+177,Veggie burger,Pasta & Burgers,Menu,3/7/2023,Tuesday,1
+178,Chicken,Fried Rice,Menu,3/7/2023,Tuesday,21
+179,Mixed,Fried Rice,Menu,3/7/2023,Tuesday,19
+180,Seafood,Fried Rice,Menu,3/7/2023,Tuesday,21
+181,Vegetables,Fried Rice,Menu,3/7/2023,Tuesday,24
+182,Chicken rice & curry,Traditional Sri Lankan,Menu,3/7/2023,Tuesday,7
+183,Fish rice & curry,Traditional Sri Lankan,Menu,3/7/2023,Tuesday,3
+184,Pork rice & curry,Traditional Sri Lankan,Menu,3/7/2023,Tuesday,8
+185,Prawn rice & curry,Traditional Sri Lankan,Menu,3/7/2023,Tuesday,25
+186,Dhal curry & plain rice,Traditional Sri Lankan,Menu,3/7/2023,Tuesday,3
+187,Fish curry & plain rice,Traditional Sri Lankan,Menu,3/7/2023,Tuesday,2
+188,Calamari,Devilled,Menu,3/7/2023,Tuesday,23
+189,Chicken,Devilled,Menu,3/7/2023,Tuesday,20
+190,Prawns,Devilled,Menu,3/7/2023,Tuesday,11
+191,Mix,Devilled,Menu,3/7/2023,Tuesday,23
+192,Chocolate crepe,Dessert Items,Dessert,3/7/2023,Tuesday,13
+193,Fruit & nut ice cream,Dessert Items,Dessert,3/7/2023,Tuesday,14
+194,Double espresso,Coffee,Beverages,3/8/2023,Wednesday,2
+195,Banana,Fresh Juices,Beverages,3/8/2023,Wednesday,11
+196,Orange,Fresh Juices,Beverages,3/8/2023,Wednesday,19
+197,Mango,Milk Shake,Beverages,3/8/2023,Wednesday,19
+198,Vanilla,Milk Shake,Beverages,3/8/2023,Wednesday,15
+199,Banana,Lassi,Beverages,3/8/2023,Wednesday,29
+200,Mango,Lassi,Beverages,3/8/2023,Wednesday,22
+201,Pineapple,Lassi,Beverages,3/8/2023,Wednesday,8
+202,Cheese & tomato sandwich,Snacks,Menu,3/8/2023,Wednesday,3
+203,Cheese omelet,Snacks,Menu,3/8/2023,Wednesday,15
+204,Chicken panini,Snacks,Menu,3/8/2023,Wednesday,16
+205,Chicken shawarma,Snacks,Menu,3/8/2023,Wednesday,6
+206,Club sandwich,Snacks,Menu,3/8/2023,Wednesday,14
+207,Croque monsieur,Snacks,Menu,3/8/2023,Wednesday,12
+208,Egg sandwich,Snacks,Menu,3/8/2023,Wednesday,9
+209,French fries,Snacks,Menu,3/8/2023,Wednesday,24
+210,Ham omelet,Snacks,Menu,3/8/2023,Wednesday,22
+211,Onion rings,Snacks,Menu,3/8/2023,Wednesday,3
+212,Onion pakora,Snacks,Menu,3/8/2023,Wednesday,26
+213,Tuna sandwich,Snacks,Menu,3/8/2023,Wednesday,16
+214,Vegetable spring rolls,Snacks,Menu,3/8/2023,Wednesday,16
+215,Vegetable sandwich,Snacks,Menu,3/8/2023,Wednesday,23
+216,Veggie panini,Snacks,Menu,3/8/2023,Wednesday,19
+217,Calamari,Salads,Menu,3/8/2023,Wednesday,6
+218,Vegetables,Salads,Menu,3/8/2023,Wednesday,3
+219,Chickpea,Salads,Menu,3/8/2023,Wednesday,4
+220,Chicken & vegetable broth,Soup,Menu,3/8/2023,Wednesday,17
+221,Creamy pumpkin,Soup,Menu,3/8/2023,Wednesday,18
+222,Cream of tomato,Soup,Menu,3/8/2023,Wednesday,22
+223,Mushroom,Soup,Menu,3/8/2023,Wednesday,25
+224,Grilled calamari,Grilled Seafood,Menu,3/8/2023,Wednesday,13
+225,Crispy chicken,Grilled Meats,Menu,3/8/2023,Wednesday,25
+226,Grilled chicken,Grilled Meats,Menu,3/8/2023,Wednesday,18
+227,Honey mustard grilled pork,Grilled Meats,Menu,3/8/2023,Wednesday,3
+228,Mixed platter,Grilled Meats,Menu,3/8/2023,Wednesday,13
+229,Carbonara,Pasta & Burgers,Menu,3/8/2023,Wednesday,20
+230,Marinara,Pasta & Burgers,Menu,3/8/2023,Wednesday,23
+231,Mushroom & basil,Pasta & Burgers,Menu,3/8/2023,Wednesday,14
+232,Napolitan,Pasta & Burgers,Menu,3/8/2023,Wednesday,15
+233,Chicken burger,Pasta & Burgers,Menu,3/8/2023,Wednesday,20
+234,Veggie burger,Pasta & Burgers,Menu,3/8/2023,Wednesday,13
+235,Chicken,Fried Rice,Menu,3/8/2023,Wednesday,11
+236,Seafood,Fried Rice,Menu,3/8/2023,Wednesday,24
+237,Vegetables,Fried Rice,Menu,3/8/2023,Wednesday,16
+238,Chicken rice & curry,Traditional Sri Lankan,Menu,3/8/2023,Wednesday,3
+239,Fish rice & curry,Traditional Sri Lankan,Menu,3/8/2023,Wednesday,11
+240,Pork rice & curry,Traditional Sri Lankan,Menu,3/8/2023,Wednesday,5
+241,Prawn rice & curry,Traditional Sri Lankan,Menu,3/8/2023,Wednesday,4
+242,Dhal curry & plain rice,Traditional Sri Lankan,Menu,3/8/2023,Wednesday,22
+243,Fish curry & plain rice,Traditional Sri Lankan,Menu,3/8/2023,Wednesday,15
+244,Pork curry & plain rice,Traditional Sri Lankan,Menu,3/8/2023,Wednesday,1
+245,Calamari,Devilled,Menu,3/8/2023,Wednesday,7
+246,Chicken,Devilled,Menu,3/8/2023,Wednesday,4
+247,Mix,Devilled,Menu,3/8/2023,Wednesday,3
+248,Fruit & nut ice cream,Dessert Items,Dessert,3/8/2023,Wednesday,14
+249,Americano,Coffee,Beverages,3/9/2023,Thursday,3
+250,Cappuccino,Coffee,Beverages,3/9/2023,Thursday,4
+251,Avocado,Fresh Juices,Beverages,3/9/2023,Thursday,17
+252,Pineapple,Fresh Juices,Beverages,3/9/2023,Thursday,19
+253,Passion,Milk Shake,Beverages,3/9/2023,Thursday,11
+254,Pineapple,Milk Shake,Beverages,3/9/2023,Thursday,17
+255,Mango,Lassi,Beverages,3/9/2023,Thursday,11
+256,Pineapple,Lassi,Beverages,3/9/2023,Thursday,8
+257,Cheese & tomato sandwich,Snacks,Menu,3/9/2023,Thursday,4
+258,Cheese omelet,Snacks,Menu,3/9/2023,Thursday,18
+259,Chicken panini,Snacks,Menu,3/9/2023,Thursday,17
+260,Chicken shawarma,Snacks,Menu,3/9/2023,Thursday,29
+261,Club sandwich,Snacks,Menu,3/9/2023,Thursday,7
+262,Croque monsieur,Snacks,Menu,3/9/2023,Thursday,20
+263,Egg sandwich,Snacks,Menu,3/9/2023,Thursday,11
+264,French fries,Snacks,Menu,3/9/2023,Thursday,22
+265,Ham omelet,Snacks,Menu,3/9/2023,Thursday,15
+266,Onion rings,Snacks,Menu,3/9/2023,Thursday,14
+267,Onion pakora,Snacks,Menu,3/9/2023,Thursday,15
+268,Sri Lankan omelet,Snacks,Menu,3/9/2023,Thursday,9
+269,Tuna sandwich,Snacks,Menu,3/9/2023,Thursday,18
+270,Vegetable spring rolls,Snacks,Menu,3/9/2023,Thursday,14
+271,Vegetable sandwich,Snacks,Menu,3/9/2023,Thursday,9
+272,Veggie panini,Snacks,Menu,3/9/2023,Thursday,20
+273,Calamari,Salads,Menu,3/9/2023,Thursday,1
+274,Chicken & pineapple,Salads,Menu,3/9/2023,Thursday,17
+275,Vegetables,Salads,Menu,3/9/2023,Thursday,22
+276,Chicken & vegetable broth,Soup,Menu,3/9/2023,Thursday,26
+277,Creamy pumpkin,Soup,Menu,3/9/2023,Thursday,13
+278,Cream of tomato,Soup,Menu,3/9/2023,Thursday,19
+279,Seafood tom yum,Soup,Menu,3/9/2023,Thursday,23
+280,Crispy chicken,Grilled Meats,Menu,3/9/2023,Thursday,8
+281,Grilled chicken,Grilled Meats,Menu,3/9/2023,Thursday,18
+282,Mixed platter,Grilled Meats,Menu,3/9/2023,Thursday,2
+283,Carbonara,Pasta & Burgers,Menu,3/9/2023,Thursday,9
+284,Marinara,Pasta & Burgers,Menu,3/9/2023,Thursday,15
+285,Mushroom & basil,Pasta & Burgers,Menu,3/9/2023,Thursday,12
+286,Pesto,Pasta & Burgers,Menu,3/9/2023,Thursday,15
+287,Prawn & garlic,Pasta & Burgers,Menu,3/9/2023,Thursday,12
+288,Chicken burger,Pasta & Burgers,Menu,3/9/2023,Thursday,22
+289,Chicken,Fried Rice,Menu,3/9/2023,Thursday,20
+290,Mixed,Fried Rice,Menu,3/9/2023,Thursday,12
+291,Vegetables,Fried Rice,Menu,3/9/2023,Thursday,25
+292,Chicken rice & curry,Traditional Sri Lankan,Menu,3/9/2023,Thursday,25
+293,Fish rice & curry,Traditional Sri Lankan,Menu,3/9/2023,Thursday,12
+294,Pork rice & curry,Traditional Sri Lankan,Menu,3/9/2023,Thursday,3
+295,Dhal curry & plain rice,Traditional Sri Lankan,Menu,3/9/2023,Thursday,13
+296,Fish curry & plain rice,Traditional Sri Lankan,Menu,3/9/2023,Thursday,6
+297,Pork curry & plain rice,Traditional Sri Lankan,Menu,3/9/2023,Thursday,17
+298,Prawn curry & plain rice,Traditional Sri Lankan,Menu,3/9/2023,Thursday,3
+299,Calamari,Devilled,Menu,3/9/2023,Thursday,13
+300,Chicken,Devilled,Menu,3/9/2023,Thursday,20
+301,Mix,Devilled,Menu,3/9/2023,Thursday,11
+302,Banana Fritters,Dessert Items,Dessert,3/9/2023,Thursday,18
+303,Fruit & nut ice cream,Dessert Items,Dessert,3/9/2023,Thursday,28
+304,Vanilla ice cream,Dessert Items,Dessert,3/9/2023,Thursday,13
+305,Avocado,Fresh Juices,Beverages,3/10/2023,Friday,28
+306,Banana,Fresh Juices,Beverages,3/10/2023,Friday,1
+307,Mixed,Fresh Juices,Beverages,3/10/2023,Friday,15
+308,Orange,Fresh Juices,Beverages,3/10/2023,Friday,19
+309,Banana,Milk Shake,Beverages,3/10/2023,Friday,1
+310,Chocolate,Milk Shake,Beverages,3/10/2023,Friday,25
+311,Pineapple,Milk Shake,Beverages,3/10/2023,Friday,11
+312,Pineapple,Lassi,Beverages,3/10/2023,Friday,17
+313,Cheese & tomato sandwich,Snacks,Menu,3/10/2023,Friday,22
+314,Cheese omelet,Snacks,Menu,3/10/2023,Friday,24
+315,Chicken panini,Snacks,Menu,3/10/2023,Friday,25
+316,Chicken shawarma,Snacks,Menu,3/10/2023,Friday,9
+317,Club sandwich,Snacks,Menu,3/10/2023,Friday,1
+318,Croque monsieur,Snacks,Menu,3/10/2023,Friday,19
+319,French fries,Snacks,Menu,3/10/2023,Friday,12
+320,Ham omelet,Snacks,Menu,3/10/2023,Friday,7
+321,Onion rings,Snacks,Menu,3/10/2023,Friday,19
+322,Onion pakora,Snacks,Menu,3/10/2023,Friday,16
+323,Sri Lankan omelet,Snacks,Menu,3/10/2023,Friday,22
+324,Tuna sandwich,Snacks,Menu,3/10/2023,Friday,3
+325,Vegetable spring rolls,Snacks,Menu,3/10/2023,Friday,22
+326,Vegetable sandwich,Snacks,Menu,3/10/2023,Friday,26
+327,Veggie panini,Snacks,Menu,3/10/2023,Friday,26
+328,Calamari,Salads,Menu,3/10/2023,Friday,12
+329,Chicken & pineapple,Salads,Menu,3/10/2023,Friday,3
+330,Mirissa bistro,Salads,Menu,3/10/2023,Friday,5
+331,Vegetables,Salads,Menu,3/10/2023,Friday,20
+332,Chickpea,Salads,Menu,3/10/2023,Friday,20
+333,Creamy pumpkin,Soup,Menu,3/10/2023,Friday,5
+334,Seafood tom yum,Soup,Menu,3/10/2023,Friday,5
+335,Mushroom,Soup,Menu,3/10/2023,Friday,22
+336,Crispy prawns,Grilled Seafood,Menu,3/10/2023,Friday,3
+337,Grilled prawns,Grilled Seafood,Menu,3/10/2023,Friday,8
+338,Seafood platter,Grilled Seafood,Menu,3/10/2023,Friday,3
+339,Crispy chicken,Grilled Meats,Menu,3/10/2023,Friday,5
+340,Grilled chicken,Grilled Meats,Menu,3/10/2023,Friday,18
+341,Honey mustard grilled pork,Grilled Meats,Menu,3/10/2023,Friday,19
+342,Mixed platter,Grilled Meats,Menu,3/10/2023,Friday,23
+343,Carbonara,Pasta & Burgers,Menu,3/10/2023,Friday,12
+344,Mushroom & basil,Pasta & Burgers,Menu,3/10/2023,Friday,22
+345,Pesto,Pasta & Burgers,Menu,3/10/2023,Friday,23
+346,Chicken burger,Pasta & Burgers,Menu,3/10/2023,Friday,1
+347,Chicken,Fried Rice,Menu,3/10/2023,Friday,3
+348,Mixed,Fried Rice,Menu,3/10/2023,Friday,24
+349,Seafood,Fried Rice,Menu,3/10/2023,Friday,1
+350,Vegetables,Fried Rice,Menu,3/10/2023,Friday,5
+351,Fish rice & curry,Traditional Sri Lankan,Menu,3/10/2023,Friday,1
+352,Pork rice & curry,Traditional Sri Lankan,Menu,3/10/2023,Friday,23
+353,Chicken curry & plain rice,Traditional Sri Lankan,Menu,3/10/2023,Friday,4
+354,Dhal curry & plain rice,Traditional Sri Lankan,Menu,3/10/2023,Friday,6
+355,Fish curry & plain rice,Traditional Sri Lankan,Menu,3/10/2023,Friday,13
+356,Calamari,Devilled,Menu,3/10/2023,Friday,18
+357,Cashew nuts,Devilled,Menu,3/10/2023,Friday,5
+358,Chicken,Devilled,Menu,3/10/2023,Friday,4
+359,Mix,Devilled,Menu,3/10/2023,Friday,19
+360,Fruit Salad,Dessert Items,Dessert,3/10/2023,Friday,13
+361,Vanilla ice cream,Dessert Items,Dessert,3/10/2023,Friday,8
+362,3 scoop ice cream,Dessert Items,Dessert,3/10/2023,Friday,20
+363,Americano,Coffee,Beverages,3/11/2023,Saturday,2
+364,Banana,Fresh Juices,Beverages,3/11/2023,Saturday,11
+365,Pineapple,Fresh Juices,Beverages,3/11/2023,Saturday,11
+366,Avocado,Milk Shake,Beverages,3/11/2023,Saturday,25
+367,Passion,Milk Shake,Beverages,3/11/2023,Saturday,8
+368,Vanilla,Milk Shake,Beverages,3/11/2023,Saturday,15
+369,Avocado,Lassi,Beverages,3/11/2023,Saturday,22
+370,Mango,Lassi,Beverages,3/11/2023,Saturday,19
+371,Cheese omelet,Snacks,Menu,3/11/2023,Saturday,21
+372,Chicken panini,Snacks,Menu,3/11/2023,Saturday,5
+373,Chicken shawarma,Snacks,Menu,3/11/2023,Saturday,19
+374,Club sandwich,Snacks,Menu,3/11/2023,Saturday,22
+375,Croque monsieur,Snacks,Menu,3/11/2023,Saturday,10
+376,Egg sandwich,Snacks,Menu,3/11/2023,Saturday,5
+377,French fries,Snacks,Menu,3/11/2023,Saturday,4
+378,Fried cashew nuts,Snacks,Menu,3/11/2023,Saturday,1
+379,Onion rings,Snacks,Menu,3/11/2023,Saturday,1
+380,Onion pakora,Snacks,Menu,3/11/2023,Saturday,20
+381,Sri Lankan omelet,Snacks,Menu,3/11/2023,Saturday,5
+382,Tuna sandwich,Snacks,Menu,3/11/2023,Saturday,5
+383,Vegetable spring rolls,Snacks,Menu,3/11/2023,Saturday,24
+384,Vegetable sandwich,Snacks,Menu,3/11/2023,Saturday,10
+385,Veggie panini,Snacks,Menu,3/11/2023,Saturday,12
+386,Chicken & pineapple,Salads,Menu,3/11/2023,Saturday,5
+387,Mirissa bistro,Salads,Menu,3/11/2023,Saturday,25
+388,Prawns,Salads,Menu,3/11/2023,Saturday,5
+389,Vegetables,Salads,Menu,3/11/2023,Saturday,1
+390,Chickpea,Salads,Menu,3/11/2023,Saturday,18
+391,Chicken & vegetable broth,Soup,Menu,3/11/2023,Saturday,8
+392,Creamy pumpkin,Soup,Menu,3/11/2023,Saturday,20
+393,Cream of tomato,Soup,Menu,3/11/2023,Saturday,8
+394,Mushroom,Soup,Menu,3/11/2023,Saturday,4
+395,Crispy prawns,Grilled Seafood,Menu,3/11/2023,Saturday,9
+396,Grilled tuna,Grilled Seafood,Menu,3/11/2023,Saturday,6
+397,Seafood platter,Grilled Seafood,Menu,3/11/2023,Saturday,4
+398,Crispy chicken,Grilled Meats,Menu,3/11/2023,Saturday,10
+399,Grilled chicken,Grilled Meats,Menu,3/11/2023,Saturday,14
+400,Honey mustard grilled pork,Grilled Meats,Menu,3/11/2023,Saturday,12
+401,Mixed platter,Grilled Meats,Menu,3/11/2023,Saturday,13
+402,Mushroom & basil,Pasta & Burgers,Menu,3/11/2023,Saturday,17
+403,Chicken burger,Pasta & Burgers,Menu,3/11/2023,Saturday,4
+404,Veggie burger,Pasta & Burgers,Menu,3/11/2023,Saturday,9
+405,Chicken,Fried Rice,Menu,3/11/2023,Saturday,3
+406,Mixed,Fried Rice,Menu,3/11/2023,Saturday,10
+407,Vegetables,Fried Rice,Menu,3/11/2023,Saturday,3
+408,Chicken rice & curry,Traditional Sri Lankan,Menu,3/11/2023,Saturday,8
+409,Pork rice & curry,Traditional Sri Lankan,Menu,3/11/2023,Saturday,25
+410,Dhal curry & plain rice,Traditional Sri Lankan,Menu,3/11/2023,Saturday,8
+411,Pork curry & plain rice,Traditional Sri Lankan,Menu,3/11/2023,Saturday,22
+412,Prawn curry & plain rice,Traditional Sri Lankan,Menu,3/11/2023,Saturday,5
+413,Calamari,Devilled,Menu,3/11/2023,Saturday,2
+414,Chicken,Devilled,Menu,3/11/2023,Saturday,12
+415,Prawns,Devilled,Menu,3/11/2023,Saturday,18
+416,Fruit & nut ice cream,Dessert Items,Dessert,3/11/2023,Saturday,20
+417,3 scoop ice cream,Dessert Items,Dessert,3/11/2023,Saturday,25
+418,Mango,Fresh Juices,Beverages,3/12/2023,Sunday,1
+419,Avocado,Milk Shake,Beverages,3/12/2023,Sunday,11
+420,Banana,Milk Shake,Beverages,3/12/2023,Sunday,19
+421,Vanilla,Milk Shake,Beverages,3/12/2023,Sunday,17
+422,Chicken panini,Snacks,Menu,3/12/2023,Sunday,21
+423,Club sandwich,Snacks,Menu,3/12/2023,Sunday,18
+424,Egg sandwich,Snacks,Menu,3/12/2023,Sunday,8
+425,French fries,Snacks,Menu,3/12/2023,Sunday,24
+426,Fried cashew nuts,Snacks,Menu,3/12/2023,Sunday,1
+427,Ham omelet,Snacks,Menu,3/12/2023,Sunday,25
+428,Vegetable sandwich,Snacks,Menu,3/12/2023,Sunday,18
+429,Chicken & vegetable broth,Soup,Menu,3/12/2023,Sunday,9
+430,Creamy pumpkin,Soup,Menu,3/12/2023,Sunday,12
+431,Mushroom,Soup,Menu,3/12/2023,Sunday,22
+432,Marinara,Pasta & Burgers,Menu,3/12/2023,Sunday,13
+433,Veggie burger,Pasta & Burgers,Menu,3/12/2023,Sunday,18
+434,Fish curry & plain rice,Traditional Sri Lankan,Menu,3/12/2023,Sunday,23
+435,Prawn curry & plain rice,Traditional Sri Lankan,Menu,3/12/2023,Sunday,13
+436,Prawns,Devilled,Menu,3/12/2023,Sunday,19
+437,Banana Fritters,Dessert Items,Dessert,3/12/2023,Sunday,18
+438,Fruit Salad,Dessert Items,Dessert,3/12/2023,Sunday,7
+439,Chocolate crepe,Dessert Items,Dessert,3/12/2023,Sunday,18
+440,Vanilla ice cream,Dessert Items,Dessert,3/12/2023,Sunday,18
+441,3 scoop ice cream,Dessert Items,Dessert,3/12/2023,Sunday,28
+442,Macchiato,Coffee,Beverages,3/13/2023,Monday,7
+443,Hot chocolate,Coffee,Beverages,3/13/2023,Monday,5
+444,Iced coffee,Coffee,Beverages,3/13/2023,Monday,4
+445,Banana,Fresh Juices,Beverages,3/13/2023,Monday,11
+446,Avocado,Milk Shake,Beverages,3/13/2023,Monday,25
+447,Banana,Milk Shake,Beverages,3/13/2023,Monday,4
+448,Vanilla,Milk Shake,Beverages,3/13/2023,Monday,19
+449,Avocado,Lassi,Beverages,3/13/2023,Monday,19
+450,Mango,Lassi,Beverages,3/13/2023,Monday,29
+451,Cheese & tomato sandwich,Snacks,Menu,3/13/2023,Monday,13
+452,Cheese omelet,Snacks,Menu,3/13/2023,Monday,19
+453,Egg sandwich,Snacks,Menu,3/13/2023,Monday,16
+454,French fries,Snacks,Menu,3/13/2023,Monday,21
+455,Ham omelet,Snacks,Menu,3/13/2023,Monday,13
+456,Chicken & pineapple,Salads,Menu,3/13/2023,Monday,13
+457,Mirissa bistro,Salads,Menu,3/13/2023,Monday,25
+458,Chickpea,Salads,Menu,3/13/2023,Monday,23
+459,Chicken & vegetable broth,Soup,Menu,3/13/2023,Monday,18
+460,Creamy pumpkin,Soup,Menu,3/13/2023,Monday,26
+461,Seafood tom yum,Soup,Menu,3/13/2023,Monday,2
+462,Mushroom,Soup,Menu,3/13/2023,Monday,22
+463,Grilled calamari,Grilled Seafood,Menu,3/13/2023,Monday,23
+464,Honey mustard grilled pork,Grilled Meats,Menu,3/13/2023,Monday,11
+465,Mixed platter,Grilled Meats,Menu,3/13/2023,Monday,3
+466,Marinara,Pasta & Burgers,Menu,3/13/2023,Monday,12
+467,Mushroom & basil,Pasta & Burgers,Menu,3/13/2023,Monday,25
+468,Napolitan,Pasta & Burgers,Menu,3/13/2023,Monday,13
+469,Pesto,Pasta & Burgers,Menu,3/13/2023,Monday,12
+470,Prawn & garlic,Pasta & Burgers,Menu,3/13/2023,Monday,13
+471,Chicken burger,Pasta & Burgers,Menu,3/13/2023,Monday,23
+472,Veggie burger,Pasta & Burgers,Menu,3/13/2023,Monday,9
+473,Seafood,Fried Rice,Menu,3/13/2023,Monday,11
+474,Prawns,Devilled,Menu,3/13/2023,Monday,21
+475,Caramel pudding,Dessert Items,Dessert,3/13/2023,Monday,18
+476,Chocolate crepe,Dessert Items,Dessert,3/13/2023,Monday,18
+477,Fruit & nut ice cream,Dessert Items,Dessert,3/13/2023,Monday,25
+478,Americano,Coffee,Beverages,3/14/2023,Tuesday,5
+479,Double espresso,Coffee,Beverages,3/14/2023,Tuesday,8
+480,Latte macchiato,Coffee,Beverages,3/14/2023,Tuesday,6
+481,Banana,Fresh Juices,Beverages,3/14/2023,Tuesday,4
+482,Mixed,Fresh Juices,Beverages,3/14/2023,Tuesday,15
+483,Passion,Fresh Juices,Beverages,3/14/2023,Tuesday,1
+484,Pineapple,Milk Shake,Beverages,3/14/2023,Tuesday,22
+485,Vanilla,Milk Shake,Beverages,3/14/2023,Tuesday,1
+486,Avocado,Lassi,Beverages,3/14/2023,Tuesday,15
+487,Pineapple,Lassi,Beverages,3/14/2023,Tuesday,8
+488,Cheese & tomato sandwich,Snacks,Menu,3/14/2023,Tuesday,13
+489,Chicken shawarma,Snacks,Menu,3/14/2023,Tuesday,15
+490,Club sandwich,Snacks,Menu,3/14/2023,Tuesday,25
+491,Croque monsieur,Snacks,Menu,3/14/2023,Tuesday,21
+492,Ham omelet,Snacks,Menu,3/14/2023,Tuesday,16
+493,Onion rings,Snacks,Menu,3/14/2023,Tuesday,12
+494,Onion pakora,Snacks,Menu,3/14/2023,Tuesday,16
+495,Sri Lankan omelet,Snacks,Menu,3/14/2023,Tuesday,18
+496,Tuna sandwich,Snacks,Menu,3/14/2023,Tuesday,7
+497,Vegetable spring rolls,Snacks,Menu,3/14/2023,Tuesday,4
+498,Vegetable sandwich,Snacks,Menu,3/14/2023,Tuesday,3
+499,Veggie panini,Snacks,Menu,3/14/2023,Tuesday,4
+500,Calamari,Salads,Menu,3/14/2023,Tuesday,18
+501,Chicken & pineapple,Salads,Menu,3/14/2023,Tuesday,1
+502,Mirissa bistro,Salads,Menu,3/14/2023,Tuesday,12
+503,Prawns,Salads,Menu,3/14/2023,Tuesday,15
+504,Vegetables,Salads,Menu,3/14/2023,Tuesday,26
+505,Chickpea,Salads,Menu,3/14/2023,Tuesday,2
+506,Chicken & vegetable broth,Soup,Menu,3/14/2023,Tuesday,25
+507,Creamy pumpkin,Soup,Menu,3/14/2023,Tuesday,18
+508,Cream of tomato,Soup,Menu,3/14/2023,Tuesday,23
+509,Seafood tom yum,Soup,Menu,3/14/2023,Tuesday,12
+510,Mushroom,Soup,Menu,3/14/2023,Tuesday,22
+511,Crispy prawns,Grilled Seafood,Menu,3/14/2023,Tuesday,22
+512,Grilled calamari,Grilled Seafood,Menu,3/14/2023,Tuesday,15
+513,Grilled prawns,Grilled Seafood,Menu,3/14/2023,Tuesday,4
+514,Seafood platter,Grilled Seafood,Menu,3/14/2023,Tuesday,17
+515,Crispy chicken,Grilled Meats,Menu,3/14/2023,Tuesday,18
+516,Grilled chicken,Grilled Meats,Menu,3/14/2023,Tuesday,22
+517,Mixed platter,Grilled Meats,Menu,3/14/2023,Tuesday,5
+518,Mushroom & basil,Pasta & Burgers,Menu,3/14/2023,Tuesday,1
+519,Pesto,Pasta & Burgers,Menu,3/14/2023,Tuesday,15
+520,Prawn & garlic,Pasta & Burgers,Menu,3/14/2023,Tuesday,9
+521,Veggie burger,Pasta & Burgers,Menu,3/14/2023,Tuesday,1
+522,Chicken,Fried Rice,Menu,3/14/2023,Tuesday,11
+523,Chicken curry & plain rice,Traditional Sri Lankan,Menu,3/14/2023,Tuesday,22
+524,Pork curry & plain rice,Traditional Sri Lankan,Menu,3/14/2023,Tuesday,18
+525,Prawn curry & plain rice,Traditional Sri Lankan,Menu,3/14/2023,Tuesday,9
+526,Calamari,Devilled,Menu,3/14/2023,Tuesday,3
+527,Chicken,Devilled,Menu,3/14/2023,Tuesday,25
+528,Prawns,Devilled,Menu,3/14/2023,Tuesday,20
+529,Mix,Devilled,Menu,3/14/2023,Tuesday,26
+530,Banana Fritters,Dessert Items,Dessert,3/14/2023,Tuesday,14
+531,Caramel pudding,Dessert Items,Dessert,3/14/2023,Tuesday,8
+532,Chocolate crepe,Dessert Items,Dessert,3/14/2023,Tuesday,8
+533,Vanilla ice cream,Dessert Items,Dessert,3/14/2023,Tuesday,14
+534,Orange,Fresh Juices,Beverages,3/15/2023,Wednesday,29
+535,Papaya,Fresh Juices,Beverages,3/15/2023,Wednesday,1
+536,Watermelon,Fresh Juices,Beverages,3/15/2023,Wednesday,1
+537,Mango,Lassi,Beverages,3/15/2023,Wednesday,25
+538,Cheese & tomato sandwich,Snacks,Menu,3/15/2023,Wednesday,22
+539,Cheese omelet,Snacks,Menu,3/15/2023,Wednesday,1
+540,Chicken panini,Snacks,Menu,3/15/2023,Wednesday,22
+541,Club sandwich,Snacks,Menu,3/15/2023,Wednesday,10
+542,Croque monsieur,Snacks,Menu,3/15/2023,Wednesday,5
+543,Egg sandwich,Snacks,Menu,3/15/2023,Wednesday,17
+544,French fries,Snacks,Menu,3/15/2023,Wednesday,7
+545,Ham omelet,Snacks,Menu,3/15/2023,Wednesday,11
+546,Onion rings,Snacks,Menu,3/15/2023,Wednesday,3
+547,Onion pakora,Snacks,Menu,3/15/2023,Wednesday,7
+548,Sri Lankan omelet,Snacks,Menu,3/15/2023,Wednesday,11
+549,Tuna sandwich,Snacks,Menu,3/15/2023,Wednesday,22
+550,Vegetable spring rolls,Snacks,Menu,3/15/2023,Wednesday,11
+551,Vegetable sandwich,Snacks,Menu,3/15/2023,Wednesday,22
+552,Veggie panini,Snacks,Menu,3/15/2023,Wednesday,10
+553,Calamari,Salads,Menu,3/15/2023,Wednesday,6
+554,Chicken & pineapple,Salads,Menu,3/15/2023,Wednesday,16
+555,Mirissa bistro,Salads,Menu,3/15/2023,Wednesday,22
+556,Prawns,Salads,Menu,3/15/2023,Wednesday,11
+557,Vegetables,Salads,Menu,3/15/2023,Wednesday,4
+558,Chickpea,Salads,Menu,3/15/2023,Wednesday,24
+559,Chicken & vegetable broth,Soup,Menu,3/15/2023,Wednesday,1
+560,Cream of tomato,Soup,Menu,3/15/2023,Wednesday,26
+561,Seafood tom yum,Soup,Menu,3/15/2023,Wednesday,3
+562,Mushroom,Soup,Menu,3/15/2023,Wednesday,4
+563,Grilled prawns,Grilled Seafood,Menu,3/15/2023,Wednesday,6
+564,Grilled tuna,Grilled Seafood,Menu,3/15/2023,Wednesday,7
+565,Seafood platter,Grilled Seafood,Menu,3/15/2023,Wednesday,24
+566,Crispy chicken,Grilled Meats,Menu,3/15/2023,Wednesday,11
+567,Grilled chicken,Grilled Meats,Menu,3/15/2023,Wednesday,9
+568,Honey mustard grilled pork,Grilled Meats,Menu,3/15/2023,Wednesday,19
+569,Mixed platter,Grilled Meats,Menu,3/15/2023,Wednesday,15
+570,Carbonara,Pasta & Burgers,Menu,3/15/2023,Wednesday,21
+571,Mushroom & basil,Pasta & Burgers,Menu,3/15/2023,Wednesday,27
+572,Napolitan,Pasta & Burgers,Menu,3/15/2023,Wednesday,8
+573,Pesto,Pasta & Burgers,Menu,3/15/2023,Wednesday,8
+574,Prawn & garlic,Pasta & Burgers,Menu,3/15/2023,Wednesday,22
+575,Chicken burger,Pasta & Burgers,Menu,3/15/2023,Wednesday,5
+576,Veggie burger,Pasta & Burgers,Menu,3/15/2023,Wednesday,13
+577,Chicken,Fried Rice,Menu,3/15/2023,Wednesday,26
+578,Mixed,Fried Rice,Menu,3/15/2023,Wednesday,20
+579,Seafood,Fried Rice,Menu,3/15/2023,Wednesday,4
+580,Vegetables,Fried Rice,Menu,3/15/2023,Wednesday,18
+581,Chicken rice & curry,Traditional Sri Lankan,Menu,3/15/2023,Wednesday,13
+582,Fish rice & curry,Traditional Sri Lankan,Menu,3/15/2023,Wednesday,2
+583,Pork rice & curry,Traditional Sri Lankan,Menu,3/15/2023,Wednesday,4
+584,Prawn rice & curry,Traditional Sri Lankan,Menu,3/15/2023,Wednesday,26
+585,Chicken curry & plain rice,Traditional Sri Lankan,Menu,3/15/2023,Wednesday,23
+586,Fish curry & plain rice,Traditional Sri Lankan,Menu,3/15/2023,Wednesday,11
+587,Prawn curry & plain rice,Traditional Sri Lankan,Menu,3/15/2023,Wednesday,2
+588,Calamari,Devilled,Menu,3/15/2023,Wednesday,23
+589,Chicken,Devilled,Menu,3/15/2023,Wednesday,3
+590,Prawns,Devilled,Menu,3/15/2023,Wednesday,11
+591,Mix,Devilled,Menu,3/15/2023,Wednesday,21
+592,Caramel pudding,Dessert Items,Dessert,3/15/2023,Wednesday,8
+593,Curd & kithul Treacle,Dessert Items,Dessert,3/15/2023,Wednesday,18
+594,Vanilla ice cream,Dessert Items,Dessert,3/15/2023,Wednesday,7
+595,Cappuccino,Coffee,Beverages,3/16/2023,Thursday,2
+596,Double espresso,Coffee,Beverages,3/16/2023,Thursday,2
+597,Long espresso,Coffee,Beverages,3/16/2023,Thursday,6
+598,Latte,Coffee,Beverages,3/16/2023,Thursday,1
+599,Hot chocolate,Coffee,Beverages,3/16/2023,Thursday,2
+600,Iced coffee,Coffee,Beverages,3/16/2023,Thursday,7
+601,Avocado,Fresh Juices,Beverages,3/16/2023,Thursday,22
+602,Lime,Fresh Juices,Beverages,3/16/2023,Thursday,19
+603,Banana,Milk Shake,Beverages,3/16/2023,Thursday,11
+604,Banana,Lassi,Beverages,3/16/2023,Thursday,1
+605,Pineapple,Lassi,Beverages,3/16/2023,Thursday,4
+606,Cheese & tomato sandwich,Snacks,Menu,3/16/2023,Thursday,14
+607,Cheese omelet,Snacks,Menu,3/16/2023,Thursday,13
+608,Chicken shawarma,Snacks,Menu,3/16/2023,Thursday,5
+609,Club sandwich,Snacks,Menu,3/16/2023,Thursday,1
+610,Croque monsieur,Snacks,Menu,3/16/2023,Thursday,1
+611,Egg sandwich,Snacks,Menu,3/16/2023,Thursday,14
+612,French fries,Snacks,Menu,3/16/2023,Thursday,17
+613,Ham omelet,Snacks,Menu,3/16/2023,Thursday,20
+614,Onion rings,Snacks,Menu,3/16/2023,Thursday,23
+615,Onion pakora,Snacks,Menu,3/16/2023,Thursday,20
+616,Sri Lankan omelet,Snacks,Menu,3/16/2023,Thursday,8
+617,Tuna sandwich,Snacks,Menu,3/16/2023,Thursday,4
+618,Vegetable spring rolls,Snacks,Menu,3/16/2023,Thursday,15
+619,Veggie panini,Snacks,Menu,3/16/2023,Thursday,9
+620,Calamari,Salads,Menu,3/16/2023,Thursday,3
+621,Chicken & pineapple,Salads,Menu,3/16/2023,Thursday,14
+622,Mirissa bistro,Salads,Menu,3/16/2023,Thursday,5
+623,Vegetables,Salads,Menu,3/16/2023,Thursday,4
+624,Chickpea,Salads,Menu,3/16/2023,Thursday,24
+625,Chicken & vegetable broth,Soup,Menu,3/16/2023,Thursday,2
+626,Cream of tomato,Soup,Menu,3/16/2023,Thursday,23
+627,Mushroom,Soup,Menu,3/16/2023,Thursday,1
+628,Crispy prawns,Grilled Seafood,Menu,3/16/2023,Thursday,1
+629,Grilled calamari,Grilled Seafood,Menu,3/16/2023,Thursday,26
+630,Grilled prawns,Grilled Seafood,Menu,3/16/2023,Thursday,1
+631,Grilled tuna,Grilled Seafood,Menu,3/16/2023,Thursday,12
+632,Seafood platter,Grilled Seafood,Menu,3/16/2023,Thursday,2
+633,Grilled chicken,Grilled Meats,Menu,3/16/2023,Thursday,15
+634,Carbonara,Pasta & Burgers,Menu,3/16/2023,Thursday,3
+635,Marinara,Pasta & Burgers,Menu,3/16/2023,Thursday,10
+636,Napolitan,Pasta & Burgers,Menu,3/16/2023,Thursday,19
+637,Prawn & garlic,Pasta & Burgers,Menu,3/16/2023,Thursday,2
+638,Veggie burger,Pasta & Burgers,Menu,3/16/2023,Thursday,3
+639,Chicken,Fried Rice,Menu,3/16/2023,Thursday,23
+640,Mixed,Fried Rice,Menu,3/16/2023,Thursday,4
+641,Seafood,Fried Rice,Menu,3/16/2023,Thursday,13
+642,Vegetables,Fried Rice,Menu,3/16/2023,Thursday,18
+643,Pork rice & curry,Traditional Sri Lankan,Menu,3/16/2023,Thursday,26
+644,Prawn rice & curry,Traditional Sri Lankan,Menu,3/16/2023,Thursday,7
+645,Chicken curry & plain rice,Traditional Sri Lankan,Menu,3/16/2023,Thursday,6
+646,Pork curry & plain rice,Traditional Sri Lankan,Menu,3/16/2023,Thursday,17
+647,Prawn curry & plain rice,Traditional Sri Lankan,Menu,3/16/2023,Thursday,15
+648,Calamari,Devilled,Menu,3/16/2023,Thursday,7
+649,Chicken,Devilled,Menu,3/16/2023,Thursday,18
+650,Prawns,Devilled,Menu,3/16/2023,Thursday,11
+651,Mix,Devilled,Menu,3/16/2023,Thursday,13
+652,Banana Fritters,Dessert Items,Dessert,3/16/2023,Thursday,13
+653,Hot chocolate,Coffee,Beverages,3/17/2023,Friday,4
+654,Mixed,Fresh Juices,Beverages,3/17/2023,Friday,17
+655,Passion,Fresh Juices,Beverages,3/17/2023,Friday,19
+656,Avocado,Milk Shake,Beverages,3/17/2023,Friday,19
+657,Pineapple,Milk Shake,Beverages,3/17/2023,Friday,11
+658,Vanilla,Milk Shake,Beverages,3/17/2023,Friday,19
+659,Avocado,Lassi,Beverages,3/17/2023,Friday,25
+660,Pineapple,Lassi,Beverages,3/17/2023,Friday,22
+661,Cheese & tomato sandwich,Snacks,Menu,3/17/2023,Friday,23
+662,Cheese omelet,Snacks,Menu,3/17/2023,Friday,14
+663,Chicken panini,Snacks,Menu,3/17/2023,Friday,6
+664,Chicken shawarma,Snacks,Menu,3/17/2023,Friday,14
+665,Club sandwich,Snacks,Menu,3/17/2023,Friday,5
+666,Egg sandwich,Snacks,Menu,3/17/2023,Friday,18
+667,French fries,Snacks,Menu,3/17/2023,Friday,20
+668,Ham omelet,Snacks,Menu,3/17/2023,Friday,2
+669,Onion pakora,Snacks,Menu,3/17/2023,Friday,11
+670,Sri Lankan omelet,Snacks,Menu,3/17/2023,Friday,4
+671,Tuna sandwich,Snacks,Menu,3/17/2023,Friday,3
+672,Vegetable spring rolls,Snacks,Menu,3/17/2023,Friday,18
+673,Vegetable sandwich,Snacks,Menu,3/17/2023,Friday,13
+674,Veggie panini,Snacks,Menu,3/17/2023,Friday,19
+675,Mirissa bistro,Salads,Menu,3/17/2023,Friday,12
+676,Prawns,Salads,Menu,3/17/2023,Friday,3
+677,Vegetables,Salads,Menu,3/17/2023,Friday,26
+678,Chickpea,Salads,Menu,3/17/2023,Friday,11
+679,Chicken & vegetable broth,Soup,Menu,3/17/2023,Friday,21
+680,Creamy pumpkin,Soup,Menu,3/17/2023,Friday,17
+681,Cream of tomato,Soup,Menu,3/17/2023,Friday,2
+682,Seafood tom yum,Soup,Menu,3/17/2023,Friday,6
+683,Mushroom,Soup,Menu,3/17/2023,Friday,25
+684,Crispy prawns,Grilled Seafood,Menu,3/17/2023,Friday,17
+685,Grilled calamari,Grilled Seafood,Menu,3/17/2023,Friday,4
+686,Grilled prawns,Grilled Seafood,Menu,3/17/2023,Friday,11
+687,Grilled tuna,Grilled Seafood,Menu,3/17/2023,Friday,12
+688,Honey mustard grilled pork,Grilled Meats,Menu,3/17/2023,Friday,24
+689,Mushroom & basil,Pasta & Burgers,Menu,3/17/2023,Friday,14
+690,Napolitan,Pasta & Burgers,Menu,3/17/2023,Friday,3
+691,Pesto,Pasta & Burgers,Menu,3/17/2023,Friday,26
+692,Prawn & garlic,Pasta & Burgers,Menu,3/17/2023,Friday,24
+693,Chicken burger,Pasta & Burgers,Menu,3/17/2023,Friday,19
+694,Veggie burger,Pasta & Burgers,Menu,3/17/2023,Friday,5
+695,Chicken,Fried Rice,Menu,3/17/2023,Friday,21
+696,Mixed,Fried Rice,Menu,3/17/2023,Friday,20
+697,Seafood,Fried Rice,Menu,3/17/2023,Friday,2
+698,Vegetables,Fried Rice,Menu,3/17/2023,Friday,11
+699,Chicken rice & curry,Traditional Sri Lankan,Menu,3/17/2023,Friday,20
+700,Fish rice & curry,Traditional Sri Lankan,Menu,3/17/2023,Friday,5
+701,Pork rice & curry,Traditional Sri Lankan,Menu,3/17/2023,Friday,1
+702,Prawn rice & curry,Traditional Sri Lankan,Menu,3/17/2023,Friday,15
+703,Chicken curry & plain rice,Traditional Sri Lankan,Menu,3/17/2023,Friday,13
+704,Dhal curry & plain rice,Traditional Sri Lankan,Menu,3/17/2023,Friday,25
+705,Fish curry & plain rice,Traditional Sri Lankan,Menu,3/17/2023,Friday,11
+706,Chicken,Devilled,Menu,3/17/2023,Friday,17
+707,Prawns,Devilled,Menu,3/17/2023,Friday,25
+708,Mix,Devilled,Menu,3/17/2023,Friday,22
+709,Banana Fritters,Dessert Items,Dessert,3/17/2023,Friday,7
+710,Fruit Salad,Dessert Items,Dessert,3/17/2023,Friday,25
+711,Fruit & nut ice cream,Dessert Items,Dessert,3/17/2023,Friday,18
+712,Cappuccino,Coffee,Beverages,3/18/2023,Saturday,6
+713,Double espresso,Coffee,Beverages,3/18/2023,Saturday,8
+714,Long espresso,Coffee,Beverages,3/18/2023,Saturday,6
+715,Latte,Coffee,Beverages,3/18/2023,Saturday,1
+716,Avocado,Fresh Juices,Beverages,3/18/2023,Saturday,15
+717,Banana,Fresh Juices,Beverages,3/18/2023,Saturday,22
+718,Papaya,Fresh Juices,Beverages,3/18/2023,Saturday,27
+719,Pineapple,Fresh Juices,Beverages,3/18/2023,Saturday,17
+720,Mango,Milk Shake,Beverages,3/18/2023,Saturday,1
+721,Pineapple,Milk Shake,Beverages,3/18/2023,Saturday,30
+722,Chicken panini,Snacks,Menu,3/18/2023,Saturday,3
+723,Onion rings,Snacks,Menu,3/18/2023,Saturday,11
+724,Vegetables,Salads,Menu,3/18/2023,Saturday,7
+725,Creamy pumpkin,Soup,Menu,3/18/2023,Saturday,15
+726,Cream of tomato,Soup,Menu,3/18/2023,Saturday,3
+727,Mushroom,Soup,Menu,3/18/2023,Saturday,2
+728,Grilled chicken,Grilled Meats,Menu,3/18/2023,Saturday,7
+729,Mixed platter,Grilled Meats,Menu,3/18/2023,Saturday,18
+730,Marinara,Pasta & Burgers,Menu,3/18/2023,Saturday,6
+731,Mushroom & basil,Pasta & Burgers,Menu,3/18/2023,Saturday,3
+732,Pesto,Pasta & Burgers,Menu,3/18/2023,Saturday,23
+733,Chicken burger,Pasta & Burgers,Menu,3/18/2023,Saturday,4
+734,Chicken,Fried Rice,Menu,3/18/2023,Saturday,9
+735,Mixed,Fried Rice,Menu,3/18/2023,Saturday,16
+736,Seafood,Fried Rice,Menu,3/18/2023,Saturday,16
+737,Vegetables,Fried Rice,Menu,3/18/2023,Saturday,7
+738,Chicken rice & curry,Traditional Sri Lankan,Menu,3/18/2023,Saturday,8
+739,Prawn rice & curry,Traditional Sri Lankan,Menu,3/18/2023,Saturday,4
+740,Prawn curry & plain rice,Traditional Sri Lankan,Menu,3/18/2023,Saturday,8
+741,Calamari,Devilled,Menu,3/18/2023,Saturday,3
+742,Chicken,Devilled,Menu,3/18/2023,Saturday,5
+743,Prawns,Devilled,Menu,3/18/2023,Saturday,10
+744,Mix,Devilled,Menu,3/18/2023,Saturday,21
+745,Chocolate mousse,Dessert Items,Dessert,3/18/2023,Saturday,25
+746,Curd & kithul Treacle,Dessert Items,Dessert,3/18/2023,Saturday,25
+747,Fruit Salad,Dessert Items,Dessert,3/18/2023,Saturday,13
+748,Fruit & nut ice cream,Dessert Items,Dessert,3/18/2023,Saturday,10
+749,Vanilla ice cream,Dessert Items,Dessert,3/18/2023,Saturday,18
+750,3 scoop ice cream,Dessert Items,Dessert,3/18/2023,Saturday,7
+751,Americano,Coffee,Beverages,3/19/2023,Sunday,2
+752,Double espresso,Coffee,Beverages,3/19/2023,Sunday,6
+753,Banana,Fresh Juices,Beverages,3/19/2023,Sunday,15
+754,Lime,Fresh Juices,Beverages,3/19/2023,Sunday,17
+755,Mango,Fresh Juices,Beverages,3/19/2023,Sunday,25
+756,Cheese & tomato sandwich,Snacks,Menu,3/19/2023,Sunday,18
+757,Cheese omelet,Snacks,Menu,3/19/2023,Sunday,22
+758,Chicken panini,Snacks,Menu,3/19/2023,Sunday,7
+759,Chicken shawarma,Snacks,Menu,3/19/2023,Sunday,18
+760,Club sandwich,Snacks,Menu,3/19/2023,Sunday,26
+761,Croque monsieur,Snacks,Menu,3/19/2023,Sunday,11
+762,Ham omelet,Snacks,Menu,3/19/2023,Sunday,2
+763,Onion rings,Snacks,Menu,3/19/2023,Sunday,21
+764,Onion pakora,Snacks,Menu,3/19/2023,Sunday,16
+765,Sri Lankan omelet,Snacks,Menu,3/19/2023,Sunday,16
+766,Tuna sandwich,Snacks,Menu,3/19/2023,Sunday,24
+767,Vegetable spring rolls,Snacks,Menu,3/19/2023,Sunday,17
+768,Vegetable sandwich,Snacks,Menu,3/19/2023,Sunday,22
+769,Vegetables,Salads,Menu,3/19/2023,Sunday,13
+770,Chickpea,Salads,Menu,3/19/2023,Sunday,2
+771,Chicken & vegetable broth,Soup,Menu,3/19/2023,Sunday,8
