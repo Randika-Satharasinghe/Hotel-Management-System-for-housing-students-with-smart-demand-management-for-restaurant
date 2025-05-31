@@ -1,0 +1,29 @@
+
+
+**Database Name: rposystem**
+
+
+
+**Recommended PHP Version 7.4**
+
+
+**Admin Login Details**
+
+Email	: admin@mail.com
+Password: admin@123
+
+**Cashier Login Details**
+
+Email	: cashier@mail.com
+Password: abc@123
+
+
+**Customer Login Details**
+customer 2
+
+mail	: customer2@mail.com
+Password: abc@123
+
+customer 3
+mail	: customer3@mail.com
+Password: abc.com
